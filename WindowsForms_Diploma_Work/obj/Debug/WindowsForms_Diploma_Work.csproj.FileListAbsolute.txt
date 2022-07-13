@@ -1,0 +1,10 @@
+C:\Users\vanya\source\repos\WindowsForms_Diploma_Work\WindowsForms_Diploma_Work\bin\Debug\WindowsForms_Diploma_Work.exe.config
+C:\Users\vanya\source\repos\WindowsForms_Diploma_Work\WindowsForms_Diploma_Work\bin\Debug\WindowsForms_Diploma_Work.exe
+C:\Users\vanya\source\repos\WindowsForms_Diploma_Work\WindowsForms_Diploma_Work\bin\Debug\WindowsForms_Diploma_Work.pdb
+C:\Users\vanya\source\repos\WindowsForms_Diploma_Work\WindowsForms_Diploma_Work\obj\Debug\WindowsForms_Diploma_Work.csproj.AssemblyReference.cache
+C:\Users\vanya\source\repos\WindowsForms_Diploma_Work\WindowsForms_Diploma_Work\obj\Debug\WindowsForms_Diploma_Work.Form1.resources
+C:\Users\vanya\source\repos\WindowsForms_Diploma_Work\WindowsForms_Diploma_Work\obj\Debug\WindowsForms_Diploma_Work.Properties.Resources.resources
+C:\Users\vanya\source\repos\WindowsForms_Diploma_Work\WindowsForms_Diploma_Work\obj\Debug\WindowsForms_Diploma_Work.csproj.GenerateResource.cache
+C:\Users\vanya\source\repos\WindowsForms_Diploma_Work\WindowsForms_Diploma_Work\obj\Debug\WindowsForms_Diploma_Work.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\WindowsForms_Diploma_Work\WindowsForms_Diploma_Work\obj\Debug\WindowsForms_Diploma_Work.exe
+C:\Users\vanya\source\repos\WindowsForms_Diploma_Work\WindowsForms_Diploma_Work\obj\Debug\WindowsForms_Diploma_Work.pdb
